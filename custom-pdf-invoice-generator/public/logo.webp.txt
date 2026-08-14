@@ -1,0 +1,18 @@
+This is a placeholder file.
+
+Replace this with your actual logo.webp file.
+
+Instructions:
+1. Delete this file (logo.webp.txt)
+2. Add your logo named exactly: logo.webp
+3. Upload to GitHub
+4. Done!
+
+Your logo should be:
+- Named: logo.webp
+- Format: WebP or PNG
+- Size: 400-600px wide
+- Transparent background preferred
+
+Note: The app expects a file named "logo.webp" in this folder.
+If the logo doesn't appear, make sure the filename is exactly "logo.webp" (lowercase).
